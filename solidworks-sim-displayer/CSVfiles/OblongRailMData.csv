@@ -1,0 +1,94 @@
+HoleZDist,HoleXDist,XCoOrdCheck,ResDisplacement,ZCoOrdCheck,Stress1
+140,20,43.99343,0.23433,140,83.255
+80,50,70,0.05703,80,23.417
+30,20,40,0.16144,30,65.434
+40,20,40,0.11396,40,60.359
+50,20,40,0.07569,50,54.498
+60,20,40,0.08198,60,49.358
+70,20,40,0.09015,70,45.029
+80,20,40,0.0998,80,45.457
+90,20,40,0.11134,90,49.386
+100,20,40,0.1256,100,55.911
+110,20,40,0.144,110,62.377
+120,20,40,0.16765,120,69.657
+130,20,40.85501,0.19725,130,80.052
+140,20,43.99343,0.23433,140,83.255
+150,20,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+30,30,50,0.15677,30,59.004
+40,30,50,0.10959,40,52.681
+50,30,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+60,30,50,0.06029,60,37.781
+70,30,50,0.06925,70,35.552
+80,30,50,0.07955,80,34.742
+90,30,50,0.09337,90,87.11
+100,30,50,0.10641,100,45.201
+110,30,50,0.12374,110,56.587
+120,30,50,0.14732,120,65.397
+130,30,50.6866,0.17662,130,72.432
+140,30,53.24868,0.21278,140,80.844
+150,30,57.46053,0.25806,150,93.71
+30,40,60,0.15646,30,53.806
+40,40,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+50,40,60,0.07069,50,52.562
+60,40,60,0.04483,60,29.441
+70,40,60,0.05478,70,27.262
+80,40,60,0.06592,80,28.396
+90,40,60,0.07781,90,33.913
+100,40,60.00992,0.09181,100,46.831
+110,40,60,0.10965,110,49.555
+120,40,60,0.13244,120,59.988
+130,40,60.57335,0.16133,130,67.725
+140,40,62.73294,0.19732,140,72.482
+150,40,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+30,50,70,0.16201,30,49.022
+40,50,70,0.11509,40,42.99
+50,50,70,0.0761,50,36.119
+60,50,70,0.04496,60,28.173
+70,50,70,0.04444,70,25.087
+80,50,70,0.05703,80,23.417
+90,50,70,0.06873,90,29.283
+100,50,70,0.0822,100,34.629
+110,50,70,0.09972,110,42.719
+120,50,70,0.12252,120,53.536
+130,50,70.49207,0.15149,130,59.939
+140,50,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+150,50,75.50969,0.2346,150,78.817
+30,60,80,0.17169,30,50.902
+40,60,80,0.12536,40,47.579
+50,60,80,0.08631,50,41.701
+60,60,80,0.05424,60,32.738
+70,60,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+80,60,80,0.04878,80,31.742
+90,60,80,0.0621,90,28.253
+100,60,80,0.07612,100,36.786
+110,60,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+120,60,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+130,60,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+140,60,82.06962,0.18452,140,70.193
+150,60,84.8629,0.23573,150,86.684
+30,70,90,0.18344,30,52.706
+40,70,90,0.13825,40,50.123
+50,70,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+60,70,90,0.06624,60,38.249
+70,70,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+80,70,90,0.04204,80,27.479
+90,70,90,0.05706,90,26.057
+100,70,90,0.07291,100,31.674
+110,70,90,0.09253,110,44.511
+120,70,90,0.11776,120,57.531
+130,70,90.38325,0.14991,130,72.879
+140,70,91.84455,0.19031,140,83.323
+150,70,0,0.26349,0,127.14
+30,80,100,0.19748,31.26643,54.199
+40,80,100,0.15365,40.95839,52.434
+50,80,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+60,80,100,0.08078,60.64313,39.205
+70,80,100,0.05232,70.55204,32.41
+80,80,0,0.04353,0,28.443
+90,80,0,0.05942,0,34.425
+100,80,0,0.07646,0,47.116
+110,80,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.,Simulation Static Force Test (Hover) fails.
+120,80,0,0.12724,0,81.82
+130,80,0,0.16319,0,98.564
+140,80,0,0.20959,0,115.56
+150,80,0,0.27962,0,143.52

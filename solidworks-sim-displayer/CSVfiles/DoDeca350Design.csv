@@ -1,0 +1,12 @@
+Design Study 2
+Scenarios/Iterations:, 11
+Parameter Constraint or Goal,Format,Unit,Initial Value,Optimal Value,Scenario 1,Scenario 2,Scenario 3,Scenario 4,Scenario 5,Scenario 6,Scenario 7,Scenario 8,Scenario 9,Scenario 10,Scenario 11
+,,,,,Calculated,Calculated,Calculated,Estimated,Calculated,Calculated,Calculated,Calculated,Calculated,Calculated,Calculated
+Diameter,,N/A,300.000000,250.000000,250.000000,260.000000,270.000000,280.000000,290.000000,300.000000,310.000000,320.000000,330.000000,340.000000,350.000000
+Stress1,Monitor Only, N/mm^2,25.676,26.08,26.08,25.594,26.392,Simulation Static Force Test (Hover) fails.,25.024,25.183,25.367,25.593,25.093,25.492,25.275
+Measurement2,(110mm ~ 120mm),mm,115.065,115.075,115.075,115.073,115.071,Simulation Static Force Test (Hover) fails.,115.067,115.065,115.064,115.063,115.062,115.061,115.06
+Surface Area1,> 50000mm^2,mm^2,138450,96705.5,96705.5,104454,112503,Simulation Static Force Test (Hover) fails.,129501,138450,147698,157247,167096,177245,187693
+Displacement1,> 0mm,mm,0.00060358,0.00086672,0.00086672,0.00079641,0.00073428,Simulation Static Force Test (Hover) fails.,0.00064101,0.00060283,0.00056781,0.00053761,0.00051003,0.00048506,0.0004663
+Sensors1,Monitor Only,,1.000000,1.000000,1.000000,1.000000,1.000000,Simulation Static Force Test (Hover) fails.,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000
+Mass1,Minimize,g,395.145,273.806,273.806,296.309,319.695,Simulation Static Force Test (Hover) fails.,369.113,395.145,422.06,449.858,478.537,508.1,538.544
+Surface Area2,Minimize,mm^2,138450,96705.5,96705.5,104454,112503,Simulation Static Force Test (Hover) fails.,129501,138450,147698,157247,167096,177245,187693
