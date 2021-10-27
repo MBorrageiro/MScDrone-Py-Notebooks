@@ -1,4 +1,3 @@
 #Jupyter Notebook Ignores
 .ipynb_checkpoints
-#Folders
-cleanedCSVs/
+.csv
